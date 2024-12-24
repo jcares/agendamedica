@@ -1,7 +1,3 @@
-Author: evilnapsis
-Proyecto: lb-admin
-Fecha de Lanzamiento: 2016-11-22
-
 Hola como estas, gracias por la compra o descarga de este paquete, a continuacion te escribo las instrucciones de instalacion:
 
 1.- Copiar y descomprimir el archivo en la carpeta c:\xampp\htdocs, al final tendras una carpeta llamada “lb-admin”, a la cual accederas desde el navegador como -> http://127.0.0.1/lb-admin
@@ -12,5 +8,3 @@ Login : http://localhost/lb-admin/
 Usuario: admin
 Password: admin
 
-Dudas y sugerencias a mi direccion email evilnapsis@gmail.com
-Powered By http://evilnapsis.com
